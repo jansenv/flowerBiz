@@ -25,5 +25,47 @@
             "commonName": "daffodil",
             "color": "yellow"
         }
+    ],
+    "retailers": [
+        {
+            "id": 1,
+            "name": "Flower Bob's",
+            "city": "Nashville",
+            "state": "TN",
+            "address": "5200 Rutherford Blvd.",
+            "distributorId": 1
+        },
+        {
+            "id": 2,
+            "name": "The Grumpy Florist",
+            "city": "Murfreesboro",
+            "state": "TN",
+            "address": "5200 Broad St.",
+            "distributorId": 1
+        },
+        {
+            "id": 3,
+            "name": "CBD Flowers",
+            "city": "Asheville",
+            "state": "NC",
+            "address": "5200 Hipster Av.",
+            "distributorId": 1
+        },
+        {
+            "id": 4,
+            "name": "7/11",
+            "city": "Kickapoo",
+            "state": "MO",
+            "address": "5200 Middle of Nowhere Way",
+            "distributorId": 1
+        },
+        {
+            "id": 5,
+            "name": "Flowers 4 Ur Lady(s)",
+            "city": "Malibu",
+            "state": "CA",
+            "address": "5200 Big Pimpin Blvd.",
+            "distributorId": 1
+        }
     ]
 }
