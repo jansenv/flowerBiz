@@ -1,8 +1,7 @@
-const Retailer = retailer => {
+const Retailer = (retailer, distributor) => {
     return `
-        <header>
-            <h2>${retailer.name}</h2>
-        </header>
+        <h2>${retailer.name}</h2>
+        Flower stock purchased from ${distributor.name}
     `
 }
 

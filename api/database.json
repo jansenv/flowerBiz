@@ -2,27 +2,27 @@
     "flowers": [
         {
             "id": 1,
-            "commonName": "daisy",
+            "commonName": "Daisy",
             "color": "white"
         },
         {
             "id": 2,
-            "commonName": "rose",
+            "commonName": "Rose",
             "color": "red"
         },
         {
             "id": 3,
-            "commonName": "petunia",
+            "commonName": "Petunia",
             "color": "purple"
         },
         {
             "id": 4,
-            "commonName": "tulip",
+            "commonName": "Tulip",
             "color": "pink"
         },
         {
             "id": 5,
-            "commonName": "daffodil",
+            "commonName": "Daffodil",
             "color": "yellow"
         }
     ],
@@ -31,15 +31,15 @@
             "id": 1,
             "name": "Flower Bob's",
             "city": "Nashville",
-            "state": "TN",
+            "state": "Tennessee",
             "address": "5200 Rutherford Blvd.",
-            "distributorId": 1
+            "distributorId": 2
         },
         {
             "id": 2,
             "name": "The Grumpy Florist",
             "city": "Murfreesboro",
-            "state": "TN",
+            "state": "Tennessee",
             "address": "5200 Broad St.",
             "distributorId": 1
         },
@@ -47,15 +47,15 @@
             "id": 3,
             "name": "CBD Flowers",
             "city": "Asheville",
-            "state": "NC",
+            "state": "North Carolina",
             "address": "5200 Hipster Av.",
-            "distributorId": 1
+            "distributorId": 3
         },
         {
             "id": 4,
             "name": "7/11",
             "city": "Kickapoo",
-            "state": "MO",
+            "state": "Missouri",
             "address": "5200 Middle of Nowhere Way",
             "distributorId": 1
         },
@@ -63,9 +63,32 @@
             "id": 5,
             "name": "Flowers 4 Ur Lady(s)",
             "city": "Malibu",
-            "state": "CA",
-            "address": "5200 Big Pimpin Blvd.",
-            "distributorId": 1
+            "state": "California",
+            "address": "5200 Big Daddy Blvd.",
+            "distributorId": 2
+        }
+    ],
+    "distributors": [
+        {
+            "id": 1,
+            "name": "Dos Hermanos Distributors",
+            "city": "Albuquerque",
+            "state": "New Mexico",
+            "address": "123 Walter White Blvd."
+        },
+        {
+            "id": 2,
+            "name": "Devastatin' Dave's Distribution",
+            "city": "Birmingham",
+            "state": "Alabama",
+            "address": "123 TruckNutz Ave."
+        },
+        {
+            "id": 3,
+            "name": "La Solucion de Distribucion",
+            "city": "Valladolid",
+            "state": "Yucatan",
+            "address": "123 Mezcal St."
         }
     ]
 }
